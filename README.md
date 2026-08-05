@@ -1,5 +1,5 @@
 # Climate Impact on Crop Production
-**Live Demo:** https://your-app-name.streamlit.app](https://shadyralph-crop-yield-prediction-and-recommendation-system-b6l.streamlit.app/
+**Live Demo:** https://shadyralph-crop-yield-prediction-and-recommendation-system-b6l.streamlit.app/
 
 This project provides:
 
